@@ -108,7 +108,7 @@ This project highlights practical skills in **data engineering, SQL, Python prog
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-
+https://github.com/Abiram-08/employee-performance-attrition-etl.git
 # Install dependencies
 pip install -r requirements.txt
 
